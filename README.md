@@ -12,9 +12,15 @@ forest_pls_theoretical_simulations.R - for replicating the theoretical simulatio
 
 reemployment_experiment.R - for replicating the application in the main part of the paper. 
 
-The proposed algorithm can be run as: 
+The algorithm can be implemented as follows (: 
 
 ```
+library(grf)
+library(pls)
+Y = as.matrix(Y)
+D = as.matrix(D)
+X = as.matrix(X)
+
 forest_pls <- function(Y, D, X){
   
   
