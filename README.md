@@ -12,7 +12,7 @@ forest_pls_theoretical_simulations.R - for replicating the theoretical simulatio
 
 reemployment_experiment.R - for replicating the application in the main part of the paper. 
 
-The algorithm can be implemented as follows (: 
+The algorithm can be implemented as follows:
 
 ```
 library(grf)
