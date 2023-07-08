@@ -6,11 +6,11 @@
 
 The code contains:
 
-simulation.R - for replicating the simulated experiments in the main part of the paper.
+simulation.R - simulated experiments in the main part of the paper.
 
-forest_pls_theoretical_simulations.R - for replicating the theoretical simulations in the Appendix.
+forest_pls_theoretical_simulations.R - theoretical simulations in the Appendix.
 
-reemployment_experiment.R - for replicating the application in the main part of the paper. 
+reemployment_experiment.R -  application in the main part of the paper. 
 
 The algorithm can be implemented as follows:
 
