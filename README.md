@@ -12,6 +12,8 @@ forest_pls_theoretical_simulations.R - theoretical simulations in the Appendix.
 
 reemployment_experiment.R -  application in the main part of the paper. 
 
+All experiments are based on out-of-bag predictions on full data.
+
 The algorithm can be implemented as follows:
 
 ```
